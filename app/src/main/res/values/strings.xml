@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exercicio-pizzaria</string>
+    <string name="Chopp">Chopp:</string>
+    <string name="Pizza">Pizza:</string>
+    <string name="Recheio">Recheio:</string>
+    <string name="Pessoa">Pessoas:</string>
+    <string name="Consumo">Consumo:</string>
+    <string name="Servico">Serviço:</string>
+    <string name="Total">Total:</string>
+    <string name="PorPessoa">Por Pessoa:</string>
+    <string name="calcular">Calcular</string>
+</resources>
